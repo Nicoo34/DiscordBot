@@ -1,7 +1,7 @@
 # DiscordBot
 Made for a fiveM server
 
-This bot is just a tool for launch & close WL session on your discord it's not linked to FiveM
+This bot is just a tool for launch & close whitelist session session on your discord it's not linked to FiveM
 
 
 
